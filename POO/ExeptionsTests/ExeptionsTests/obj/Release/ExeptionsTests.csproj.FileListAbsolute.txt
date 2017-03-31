@@ -1,0 +1,5 @@
+C:\Users\34011-36-05\Documents\Visual Studio 2015\Projects\POO\ExeptionsTests\ExeptionsTests\bin\Release\ExeptionsTests.exe.config
+C:\Users\34011-36-05\Documents\Visual Studio 2015\Projects\POO\ExeptionsTests\ExeptionsTests\bin\Release\ExeptionsTests.exe
+C:\Users\34011-36-05\Documents\Visual Studio 2015\Projects\POO\ExeptionsTests\ExeptionsTests\bin\Release\ExeptionsTests.pdb
+C:\Users\34011-36-05\Documents\Visual Studio 2015\Projects\POO\ExeptionsTests\ExeptionsTests\obj\Release\ExeptionsTests.exe
+C:\Users\34011-36-05\Documents\Visual Studio 2015\Projects\POO\ExeptionsTests\ExeptionsTests\obj\Release\ExeptionsTests.pdb

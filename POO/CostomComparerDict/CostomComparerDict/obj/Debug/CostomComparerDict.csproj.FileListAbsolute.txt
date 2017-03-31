@@ -1,0 +1,6 @@
+C:\Users\34011-36-05\Documents\Visual Studio 2015\Projects\POO\CostomComparerDict\CostomComparerDict\bin\Debug\CostomComparerDict.exe.config
+C:\Users\34011-36-05\Documents\Visual Studio 2015\Projects\POO\CostomComparerDict\CostomComparerDict\bin\Debug\CostomComparerDict.exe
+C:\Users\34011-36-05\Documents\Visual Studio 2015\Projects\POO\CostomComparerDict\CostomComparerDict\bin\Debug\CostomComparerDict.pdb
+C:\Users\34011-36-05\Documents\Visual Studio 2015\Projects\POO\CostomComparerDict\CostomComparerDict\obj\Debug\CostomComparerDict.csprojResolveAssemblyReference.cache
+C:\Users\34011-36-05\Documents\Visual Studio 2015\Projects\POO\CostomComparerDict\CostomComparerDict\obj\Debug\CostomComparerDict.exe
+C:\Users\34011-36-05\Documents\Visual Studio 2015\Projects\POO\CostomComparerDict\CostomComparerDict\obj\Debug\CostomComparerDict.pdb

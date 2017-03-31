@@ -1,0 +1,6 @@
+C:\Users\34011-36-05\Documents\Visual Studio 2015\Projects\POO\CollectionSalarie\CollectionSalarie\bin\Debug\CollectionSalarie.exe.config
+C:\Users\34011-36-05\Documents\Visual Studio 2015\Projects\POO\CollectionSalarie\CollectionSalarie\bin\Debug\CollectionSalarie.exe
+C:\Users\34011-36-05\Documents\Visual Studio 2015\Projects\POO\CollectionSalarie\CollectionSalarie\bin\Debug\CollectionSalarie.pdb
+C:\Users\34011-36-05\Documents\Visual Studio 2015\Projects\POO\CollectionSalarie\CollectionSalarie\obj\Debug\CollectionSalarie.exe
+C:\Users\34011-36-05\Documents\Visual Studio 2015\Projects\POO\CollectionSalarie\CollectionSalarie\obj\Debug\CollectionSalarie.pdb
+C:\Users\34011-36-05\Documents\Visual Studio 2015\Projects\POO\CollectionSalarie\CollectionSalarie\obj\Debug\CollectionSalarie.csprojResolveAssemblyReference.cache

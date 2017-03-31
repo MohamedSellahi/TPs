@@ -1,0 +1,6 @@
+C:\Users\34011-36-05\Documents\Visual Studio 2015\Projects\POO\TPException\TPException\bin\Debug\TPException.exe.config
+C:\Users\34011-36-05\Documents\Visual Studio 2015\Projects\POO\TPException\TPException\bin\Debug\TPException.exe
+C:\Users\34011-36-05\Documents\Visual Studio 2015\Projects\POO\TPException\TPException\bin\Debug\TPException.pdb
+C:\Users\34011-36-05\Documents\Visual Studio 2015\Projects\POO\TPException\TPException\obj\Debug\TPException.csprojResolveAssemblyReference.cache
+C:\Users\34011-36-05\Documents\Visual Studio 2015\Projects\POO\TPException\TPException\obj\Debug\TPException.exe
+C:\Users\34011-36-05\Documents\Visual Studio 2015\Projects\POO\TPException\TPException\obj\Debug\TPException.pdb

@@ -1,0 +1,6 @@
+C:\Users\34011-36-05\Documents\Visual Studio 2015\Projects\POO\TestCollections\TestCollections\bin\Debug\TestCollections.exe.config
+C:\Users\34011-36-05\Documents\Visual Studio 2015\Projects\POO\TestCollections\TestCollections\bin\Debug\TestCollections.exe
+C:\Users\34011-36-05\Documents\Visual Studio 2015\Projects\POO\TestCollections\TestCollections\bin\Debug\TestCollections.pdb
+C:\Users\34011-36-05\Documents\Visual Studio 2015\Projects\POO\TestCollections\TestCollections\obj\Debug\TestCollections.csprojResolveAssemblyReference.cache
+C:\Users\34011-36-05\Documents\Visual Studio 2015\Projects\POO\TestCollections\TestCollections\obj\Debug\TestCollections.exe
+C:\Users\34011-36-05\Documents\Visual Studio 2015\Projects\POO\TestCollections\TestCollections\obj\Debug\TestCollections.pdb
